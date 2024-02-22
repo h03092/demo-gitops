@@ -6,4 +6,4 @@ resources:
 - vas-ing.yaml
 images:
 - name: h03092/vas
-  newTag: 0.0.2
+  newTag: 1.0.0 
